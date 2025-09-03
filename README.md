@@ -38,6 +38,8 @@ API REST para o fluxo de Notificação Judicial.
 ## Tela-teste
 
 <img width="1918" height="1016" alt="Captura de tela 2025-09-02 230254" src="https://github.com/user-attachments/assets/e9601dbc-9bc5-4e05-9865-e0bed413c374" />
+<img width="663" height="970" alt="Captura de tela 2025-09-02 230616" src="https://github.com/user-attachments/assets/86a67a01-2ca8-446a-850c-d66da7164b3f" />
+
 
 ## Observações
 
