@@ -6,6 +6,7 @@ API REST para o fluxo de Notificação Judicial.
 - Node 18+
 - PostgreSQL rodando localmente
 - Criar o banco `notificacoes` (ou ajuste no `.env`)
+- Framework NestJS
 
 ## Configuração
 1. Copie `.env.example` para `.env` e ajuste credenciais do Postgres.
